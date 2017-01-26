@@ -15,13 +15,11 @@ of Brackets, much of what you can do is the same as for [using the desktop Brack
 ##Who owns my project?
 ##How do I navigate Thimble?
 ##How do I use the Tutorial Feature?
-![Tutorials](https://raw.githubusercontent.com/wiki/mozilla/thimble.webmaker.org/tutorial.gif)
-
 Because Thimble is geared toward teaching and learning, it allows you to bundle a `tutorial.html` file
 along with your project.  When a project has a `tutorial.html` file, it will get an extra option to switch
 in the inline preview between a live view of the current document and the tutorial.  Being able to "pin"
 the tutorial is helpful so you can read a complex set of instructions and follow along in the editor.
-
+![Tutorials](https://raw.githubusercontent.com/wiki/mozilla/thimble.webmaker.org/tutorial.gif)
 ##Can Thimble highlight my live changes?
 ##How can I use Thimble to find out how code works?
 Talk about the inspector mode.
@@ -36,9 +34,7 @@ Define and discuss inline docs.
 ##Can I change the color of the Thimble editor?
 You can change the background color of Thimble by switching between a **Light Theme** and a
 **Dark Theme**.  Your choice will be remembered when you return.
-
 ![Themes](https://raw.githubusercontent.com/wiki/mozilla/thimble.webmaker.org/theme.gif)
-
 ##Can I turn off javascript?
 ##Can I turn off line-wrapping?
 ##Can I use Markdown?
