@@ -1,11 +1,16 @@
 # Using Thimble
 ##What is Thimble?
+##How do you create a project?
+##How do you save a project?
+##How do you publish a project?
+##How do you remix a project?
+##Who owns your project?
 ##How do you navigate Thimble?
-##How do you use the tutorial?
+##How do you use the Tutorial Feature?
 ##How do I switch between desktop and mobile view?
 ##Can I change the color of the Thimble editor?
 ##Can Thimble highlight my live changes?
-##Can Thimble find the code that makes elements display in the editor?
+##How can I use Thimble to find out what code does??
 ##Can I turn off javascript?
 
 
