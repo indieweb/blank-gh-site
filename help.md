@@ -5,8 +5,8 @@
 ##How do I switch between desktop and mobile view?
 ##Can I change the color of the Thimble editor?
 ##Can Thimble highlight my live changes?
-##Can Thimble find the code that makes elements display in the ediotr?
-##Can I turn off javascrip?
+##Can Thimble find the code that makes elements display in the editor?
+##Can I turn off javascript?
 
 
 
