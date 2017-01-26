@@ -1,5 +1,11 @@
 # Using Thimble
 ##What is Thimble?
+Thimble is a code editor for HTML, JavaScript, and CSS, and is designed to help people 
+teach, learn, and create the web *with* the web.  Because it uses a forked version
+of Brackets, much of what you can do is the same as for [using the desktop Brackets editor](https://github.com/adobe/brackets/wiki/How-to-Use-Brackets).  
+
+*NOTE: if you find the following animations too small to read, you can open all of the images below in full-size by right-clicking and viewing them on their own.*
+
 ##How do I create a project?
 ##How do I save a project?
 ##How do I publish a project?
@@ -9,6 +15,13 @@
 ##Who owns my project?
 ##How do I navigate Thimble?
 ##How do I use the Tutorial Feature?
+![Tutorials](https://raw.githubusercontent.com/wiki/mozilla/thimble.webmaker.org/tutorial.gif)
+
+Because Thimble is geared toward teaching and learning, it allows you to bundle a `tutorial.html` file
+along with your project.  When a project has a `tutorial.html` file, it will get an extra option to switch
+in the inline preview between a live view of the current document and the tutorial.  Being able to "pin"
+the tutorial is helpful so you can read a complex set of instructions and follow along in the editor.
+
 ##Can Thimble highlight my live changes?
 ##How can I use Thimble to find out how code works?
 Talk about the inspector mode.
@@ -21,36 +34,29 @@ Define and discuss inline docs.
 ##How do I use the inline editor?
 ##How do I switch between desktop and mobile view?
 ##Can I change the color of the Thimble editor?
+You can change the background color of Thimble by switching between a **Light Theme** and a
+**Dark Theme**.  Your choice will be remembered when you return.
+
+![Themes](https://raw.githubusercontent.com/wiki/mozilla/thimble.webmaker.org/theme.gif)
+
 ##Can I turn off javascript?
 ##Can I turn off line-wrapping?
 ##Can I use Markdown?
 ##Can I use Less?
 ##How do I write a tutorial?
-
-
-
-
-
-## Introduction
-
-Thimble is a code editor for HTML, JavaScript, and CSS, and is designed to help people 
-teach, learn, and create the web *with* the web.  Because it uses a forked version
-of Brackets, much of what you can do is the same as for [using the desktop Brackets editor](https://github.com/adobe/brackets/wiki/How-to-Use-Brackets).  Below are descriptions of some of the less-obvious features.
-
-*NOTE: if you find the following animations too small to read, you can open all of the images below in full-size by right-clicking and viewing them on their own.*
-
-## Tutorials
-
-Because Thimble is geared toward teaching and learning, it allows you to bundle a `tutorial.html` file
-along with your project.  When a project has a `tutorial.html` file, it will get an extra option to switch
-in the inline preview between a live view of the current document and the tutorial.  Being able to "pin"
-the tutorial is helpful so you can read a complex set of instructions and follow along in the editor.
-
 For tutorial authors, your `tutorial.html` file can contain any valid HTML document, and can use
 both external and internal assets.  You could even have an iframe that shows documentation from some
 other site. 
 
-![Tutorials](https://raw.githubusercontent.com/wiki/mozilla/thimble.webmaker.org/tutorial.gif)
+
+
+
+
+
+
+
+
+
 
 ## Desktop vs. Mobile View
 
@@ -60,10 +66,6 @@ like at different sizes:
 ![Preview Modes](https://raw.githubusercontent.com/wiki/mozilla/thimble.webmaker.org/preview-modes.gif)
 
 ## Theme
-Brackets supports theming, and Thimble ships with the option to switch between a **Light Theme** and a
-**Dark Theme**.  Your choice will be remembered between sessions.
-
-![Themes](https://raw.githubusercontent.com/wiki/mozilla/thimble.webmaker.org/theme.gif)
 
 ## Disable Line Wrapping
 
