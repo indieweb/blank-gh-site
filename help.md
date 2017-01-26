@@ -8,8 +8,8 @@
 ##How do I export a project
 ##Who owns my project?
 ##How do I navigate Thimble?
-##Can Thimble highlight my live changes?
 ##How do I use the Tutorial Feature?
+##Can Thimble highlight my live changes?
 ##How can I use Thimble to find out how code works?
 Talk about the inspector mode.
 ##How do I learn how everything works?
