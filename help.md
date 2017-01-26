@@ -1,16 +1,27 @@
 # Using Thimble
 ##What is Thimble?
-##How do you create a project?
-##How do you save a project?
-##How do you publish a project?
-##How do you remix a project?
-##Who owns your project?
-##How do you navigate Thimble?
-##How do you use the Tutorial Feature?
+##How do I create a project?
+##How do I save a project?
+##How do I publish a project?
+##How do I remix a project?
+##How do I upload a project?
+##How do I export a project
+##Who owns my project?
+##How do I navigate Thimble?
+##Can Thimble highlight my live changes?
+##How do I use the Tutorial Feature?
+##How can I use Thimble to find out how code works?
+Talk about the inspector mode.
+##How do I learn how everything works?
+Mainly my playing and trying out our projects. Define and discuss inline docs.
+##How do I add an image to a project?
+Link to the Make-a-meme project. 
+##How do I upload an image?
+##How do I take a selfie?
+Link to a basic tutorial project.
+##How do I use the inline editor?
 ##How do I switch between desktop and mobile view?
 ##Can I change the color of the Thimble editor?
-##Can Thimble highlight my live changes?
-##How can I use Thimble to find out what code does??
 ##Can I turn off javascript?
 
 
@@ -43,8 +54,7 @@ like at different sizes:
 
 ![Preview Modes](https://raw.githubusercontent.com/wiki/mozilla/thimble.webmaker.org/preview-modes.gif)
 
-## Themes
-
+## Theme
 Brackets supports theming, and Thimble ships with the option to switch between a **Light Theme** and a
 **Dark Theme**.  Your choice will be remembered between sessions.
 
