@@ -13,16 +13,20 @@
 ##How can I use Thimble to find out how code works?
 Talk about the inspector mode.
 ##How do I learn how everything works?
-Mainly my playing and trying out our projects. Define and discuss inline docs.
+Define and discuss inline docs.
 ##How do I add an image to a project?
-Link to the Make-a-meme project. 
 ##How do I upload an image?
 ##How do I take a selfie?
-Link to a basic tutorial project.
+##How do I use the color picker?
 ##How do I use the inline editor?
 ##How do I switch between desktop and mobile view?
 ##Can I change the color of the Thimble editor?
 ##Can I turn off javascript?
+##Can I turn off line-wrapping?
+##Can I use Markdown?
+##Can I use Less?
+
+
 
 
 
