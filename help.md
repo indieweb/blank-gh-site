@@ -8,6 +8,7 @@ Because Thimble  uses a forked version of Brackets, much of what you can do is t
 *NOTE: if you find the following animations too small to read, you can open all of the images below in full-size by right-clicking and viewing them on their own.*
 
 ##How do I create a project?
+##How do I create an account?
 ##How do I save a project?
 ##How do I publish a project?
 ##How do I remix a project?
@@ -22,16 +23,29 @@ in the inline preview between a live view of the current document and the tutori
 the tutorial is helpful so you can read a complex set of instructions and follow along in the editor.
 ![Tutorials](https://raw.githubusercontent.com/wiki/mozilla/thimble.webmaker.org/tutorial.gif)
 ##How do I preview my project?
-In 
+Thimble comes with a comes with an editor view in the left window and a preview on the right side. As you  make a change in your editor it will update in the preview. If you ever need to refresh the preview window there is a button next to the word Preview. 
 ##How do I see what my project would look like on a mobile device?
-The inline preview can be switched from Desktop to Mobile mode, allowing you to see what your page would look
+The inline preview (the window on the right) can be switched from Desktop to Mobile mode, allowing you to see what your page would look
 like at different sizes:
 ![Preview Modes](https://raw.githubusercontent.com/wiki/mozilla/thimble.webmaker.org/preview-modes.gif)
 ##Can Thimble highlight my live changes?
+As you work in the editor, the preview will show a live representation of what you type. This includes
+highlighting the part of your project that corresponds to the code under your cursor.  This feature works in
+both HTML files, where it highlights the given element, and in CSS files, where elements that use the
+current rule are highlighted:
+
+![Live DOM Highlighting](https://raw.githubusercontent.com/wiki/mozilla/thimble.webmaker.org/dom-highlight.gif)
 ##How can I use Thimble to find out how code works?
-Talk about the inspector mode.
+Thimble comes with an inpector mode. The Inspector allows you to hover your mouse over a part of the project in your  preview, and see the associated code that was used to make them in the editor.  It is useful for trying to understand how a page works, or
+where exactly to make changes.  When the Inspector is enabled, move your mouse within the preview to highlight
+elements and code, or click on a specific part of the page to turn off the Inspector and focus just on that code.
+
+![Inspector](https://raw.githubusercontent.com/wiki/mozilla/thimble.webmaker.org/inspector.gif)
+
 ##How do I learn how everything works?
-Define and discuss inline docs.
+Thimble comes with inline documents to help you learn about HTML and CSS. With a click of a shortcut key you can define key terms and get a link to learn even more. You can get HTML and CSS documentation by using `Alt+K` or `⌥+K` (OS X) while your cursor is on top of an element or property:
+
+![Inline Docs](https://raw.githubusercontent.com/wiki/mozilla/thimble.webmaker.org/inline-docs.gif)
 ##How do I add an image to a project?
 ##How do I upload an image?
 ##How do I take a selfie?
@@ -44,6 +58,9 @@ You can change the background color of Thimble by switching between a **Light Th
 ![Themes](https://raw.githubusercontent.com/wiki/mozilla/thimble.webmaker.org/theme.gif)
 ##Can I turn off javascript?
 ##Can I turn off line-wrapping?
+You can disable line wrapping by changing the toggle in the settings menu.
+
+![Settings](https://cloud.githubusercontent.com/assets/8389648/11519076/d3bb2b16-984b-11e5-85af-0d37c05f2dda.png)
 ##Can I use Markdown?
 ##Can I use Less?
 ##How do I write a tutorial?
@@ -61,38 +78,22 @@ other site.
 
 
 
-## Desktop vs. Mobile View
 
-The inline preview can be switched from Desktop to Mobile mode, allowing you to see what your page would look
-like at different sizes:
 
-![Preview Modes](https://raw.githubusercontent.com/wiki/mozilla/thimble.webmaker.org/preview-modes.gif)
 
 ## Theme
 
 ## Disable Line Wrapping
 
-You can disable line wrapping by changing the toggle in the settings menu.
 
-![Settings](https://cloud.githubusercontent.com/assets/8389648/11519076/d3bb2b16-984b-11e5-85af-0d37c05f2dda.png)
  
 ## Live DOM Highlighting
 
-As you work in the editor, the preview will show a live representation of what you type. This includes
-highlighting of DOM elements that correspond to the code under your cursor.  This feature works in
-both HTML files, where it highlights the given element, and in CSS files, where elements that use the
-current rule are highlighted:
 
-![Live DOM Highlighting](https://raw.githubusercontent.com/wiki/mozilla/thimble.webmaker.org/dom-highlight.gif)
 
 ## Inspector
 
-The Inspector allows you to hover your mouse over elements in the preview, and see the associated code
-that was used to make them in the editor.  It is useful for trying to understand how a page works, or
-where exactly to make changes.  When the Inspector is enabled, move your mouse within the preview to highlight
-elements and code, or click on a specific part of the page to turn off the Inspector and focus just on that code.
 
-![Inspector](https://raw.githubusercontent.com/wiki/mozilla/thimble.webmaker.org/inspector.gif)
 
 ## Disable Auto-Executing of JavaScript
 
