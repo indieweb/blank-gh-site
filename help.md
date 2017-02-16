@@ -1,8 +1,9 @@
 # Using Thimble
 ##What is Thimble?
 Thimble is a code editor for HTML, JavaScript, and CSS, and is designed to help people 
-teach, learn, and create the web *with* the web.  Because it uses a forked version
-of Brackets, much of what you can do is the same as for [using the desktop Brackets editor](https://github.com/adobe/brackets/wiki/How-to-Use-Brackets).  
+teach, learn, and create the web *with* the web. You get to see your code on the left side of the screen and a preview of your project on the rights side of the window. When you make a change to your code the changes happen live on the Preview. Plus Thimble is loaded with learning tools to help you grow regarless of skill level. 
+
+Because Thimble  uses a forked version of Brackets, much of what you can do is the same as for [using the desktop Brackets editor](https://github.com/adobe/brackets/wiki/How-to-Use-Brackets).  
 
 *NOTE: if you find the following animations too small to read, you can open all of the images below in full-size by right-clicking and viewing them on their own.*
 
@@ -20,6 +21,12 @@ along with your project.  When a project has a `tutorial.html` file, it will get
 in the inline preview between a live view of the current document and the tutorial.  Being able to "pin"
 the tutorial is helpful so you can read a complex set of instructions and follow along in the editor.
 ![Tutorials](https://raw.githubusercontent.com/wiki/mozilla/thimble.webmaker.org/tutorial.gif)
+##How do I preview my project?
+In 
+##How do I see what my project would look like on a mobile device?
+The inline preview can be switched from Desktop to Mobile mode, allowing you to see what your page would look
+like at different sizes:
+![Preview Modes](https://raw.githubusercontent.com/wiki/mozilla/thimble.webmaker.org/preview-modes.gif)
 ##Can Thimble highlight my live changes?
 ##How can I use Thimble to find out how code works?
 Talk about the inspector mode.
