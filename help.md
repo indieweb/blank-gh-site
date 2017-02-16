@@ -42,7 +42,7 @@ elements and code, or click on a specific part of the page to turn off the Inspe
 
 ![Inspector](https://raw.githubusercontent.com/wiki/mozilla/thimble.webmaker.org/inspector.gif)
 
-##How do I learn how everything works?
+##How do I learn what all this HTML and other stuff means?
 Thimble comes with inline documents to help you learn about HTML and CSS. With a click of a shortcut key you can define key terms and get a link to learn even more. You can get HTML and CSS documentation by using `Alt+K` or `⌥+K` (OS X) while your cursor is on top of an element or property:
 
 ![Inline Docs](https://raw.githubusercontent.com/wiki/mozilla/thimble.webmaker.org/inline-docs.gif)
