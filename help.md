@@ -1,5 +1,6 @@
 # Using Thimble
-##What is Thimble?
+## What is Thimble?
+
 Thimble is a code editor for HTML, JavaScript, and CSS, and is designed to help people 
 teach, learn, and create the web *with* the web. You get to see your code on the left side of the screen and a preview of your project on the rights side of the window. When you make a change to your code the changes happen live on the Preview. Plus Thimble is loaded with learning tools to help you grow regarless of skill level. 
 
@@ -7,35 +8,53 @@ Because Thimble  uses a forked version of Brackets, much of what you can do is t
 
 *NOTE: if you find the following animations too small to read, you can open all of the images below in full-size by right-clicking and viewing them on their own.*
 
-##How do I create a project?
-##How do I create an account?
-##How do I save a project?
-##How do I publish a project?
-##How do I remix a project?
-##How do I upload a project?
-##How do I export a project
-##Who owns my project?
-##How do I navigate Thimble?
-##How do I use the Tutorial Feature?
+## How do I create a project?
+
+## How do I create an account?
+
+## How do I save a project?
+
+## How do I publish a project?
+
+## How do I remix a project?
+
+## How do I upload a project?
+
+## How do I export a project?
+
+## Who owns my project?
+## How do I navigate Thimble?
+## How do I use the Tutorial Feature?
+
 Because Thimble is geared toward teaching and learning, it allows you to bundle a `tutorial.html` file
 along with your project.  When a project has a `tutorial.html` file, it will get an extra option to switch
 in the inline preview between a live view of the current document and the tutorial.  Being able to "pin"
 the tutorial is helpful so you can read a complex set of instructions and follow along in the editor.
+
 ![Tutorials](https://raw.githubusercontent.com/wiki/mozilla/thimble.webmaker.org/tutorial.gif)
-##How do I preview my project?
+
+## How do I preview my project?
+
 Thimble comes with a comes with an editor view in the left window and a preview on the right side. As you  make a change in your editor it will update in the preview. If you ever need to refresh the preview window there is a button next to the word Preview. 
-##How do I see what my project would look like on a mobile device?
+
+## How do I see what my project would look like on a mobile device?
+
 The inline preview (the window on the right) can be switched from Desktop to Mobile mode, allowing you to see what your page would look
 like at different sizes:
+
 ![Preview Modes](https://raw.githubusercontent.com/wiki/mozilla/thimble.webmaker.org/preview-modes.gif)
-##Can Thimble highlight my live changes?
+
+## Can Thimble highlight my live changes?
+
 As you work in the editor, the preview will show a live representation of what you type. This includes
 highlighting the part of your project that corresponds to the code under your cursor.  This feature works in
 both HTML files, where it highlights the given element, and in CSS files, where elements that use the
 current rule are highlighted:
 
 ![Live DOM Highlighting](https://raw.githubusercontent.com/wiki/mozilla/thimble.webmaker.org/dom-highlight.gif)
-##How can I use Thimble to find out how code works?
+
+## How can I use Thimble to find out how code works?
+
 Thimble comes with an inpector mode. The Inspector allows you to hover your mouse over a part of the project in your  preview, and see the associated code that was used to make them in the editor.  It is useful for trying to understand how a page works, or
 where exactly to make changes.  When the Inspector is enabled, move your mouse within the preview to highlight
 elements and code, or click on a specific part of the page to turn off the Inspector and focus just on that code.
@@ -43,69 +62,54 @@ elements and code, or click on a specific part of the page to turn off the Inspe
 ![Inspector](https://raw.githubusercontent.com/wiki/mozilla/thimble.webmaker.org/inspector.gif)
 
 ##How do I learn what all this HTML and other stuff means?
+
 Thimble comes with inline documents to help you learn about HTML and CSS. With a click of a shortcut key you can define key terms and get a link to learn even more. You can get HTML and CSS documentation by using `Alt+K` or `⌥+K` (OS X) while your cursor is on top of an element or property:
 
 ![Inline Docs](https://raw.githubusercontent.com/wiki/mozilla/thimble.webmaker.org/inline-docs.gif)
-##How do I add an image to a project?
-##How do I upload an image?
-##How do I take a selfie?
-##How do I use the color picker?
-##How do I use the inline editor?
-##How do I switch between desktop and mobile view?
-##Can I change the color of the Thimble editor?
+
+## How do I add an image to a project?
+
+## How do I upload an image?
+
+## How do I take a selfie?
+
+## How do I use the color picker?
+
+## How can I make my files easier to read?
+
+Thimble uses a tool called code collapsing. This allows you to collapse and expand sections of code for easier reading. You can collapse code from an opening tag to a closing tag. Just click on the arrows next to the line numbers.
+
+![Code Folding](http://g.recordit.co/rjzeFUpygp.gif)
+
+## How do I use the inline editor?
+
+## Can I change the color of the Thimble editor?
+
 You can change the background color of Thimble by switching between a **Light Theme** and a
 **Dark Theme**.  Your choice will be remembered when you return.
+
 ![Themes](https://raw.githubusercontent.com/wiki/mozilla/thimble.webmaker.org/theme.gif)
+
 ##Can I turn off javascript?
-##Can I turn off line-wrapping?
-You can disable line wrapping by changing the toggle in the settings menu.
-
-![Settings](https://cloud.githubusercontent.com/assets/8389648/11519076/d3bb2b16-984b-11e5-85af-0d37c05f2dda.png)
-##Can I use Markdown?
-##Can I use Less?
-##How do I write a tutorial?
-For tutorial authors, your `tutorial.html` file can contain any valid HTML document, and can use
-both external and internal assets.  You could even have an iframe that shows documentation from some
-other site. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Theme
-
-## Disable Line Wrapping
-
-
- 
-## Live DOM Highlighting
-
-
-
-## Inspector
-
-
-
-## Disable Auto-Executing of JavaScript
 
 Use the toggle in the settings menu to prevent JavaScript from running in your project.
 
 ![Settings](https://cloud.githubusercontent.com/assets/8389648/11519076/d3bb2b16-984b-11e5-85af-0d37c05f2dda.png)
 
-## Code Folding
+## Can I turn off line-wrapping? 
+You can disable line wrapping by changing the toggle in the settings menu.
 
-You can easily collapse and expand sections of code for easier reading. Just click on the arrows next to the line numbers.
+![Settings](https://cloud.githubusercontent.com/assets/8389648/11519076/d3bb2b16-984b-11e5-85af-0d37c05f2dda.png)
 
-![Code Folding](http://g.recordit.co/rjzeFUpygp.gif)
+## Can I use Markdown?
+
+## Can I use Less?
+
+## How do I write a tutorial?
+
+For tutorial authors, your `tutorial.html` file can contain any valid HTML document, and can use
+both external and internal assets.  You could even have an iframe that shows documentation from some
+other site. 
 
 ## Inline Docs
 
