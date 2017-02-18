@@ -59,6 +59,16 @@ Importing `*.zip` archives is nice because it allows you to bring pre-made conte
 
 ## Who owns my project?
 
+You agree to license all your Webmaker Project Submissions under a Creative Commons Attribution-ShareAlike 3.0 Unported license, or any later version. You represent and warrant that that you have all necessary rights and permissions to license your Webmaker Project Submissions under a CC BY-SA license and that the uses contemplated on the Sites will not infringe the proprietary or intellectual property rights of any third party.
+
+Mozilla does not require a direct license grant from you for Webmaker App Project Submissions and will use the terms of the CC BY-SA license in order to provide you with service.
+
+You grant Mozilla a non-exclusive, worldwide, sublicensable, royalty free license to use your Thimble and X-Ray Goggles (the “Tools”) Submissions in connection with the provision and promotion of the Tools and the Sites. You represent and warrant that that you have all necessary rights and permissions to publish your Tools Submissions on the Sites, and that the uses contemplated in the Tools and on the Sites will not infringe the proprietary or intellectual property rights of any third party.
+
+You acknowledge that as a part of the functionality of Tools, some if not all of your Tools Submissions may be re-used by others. Because of this, you hereby grant every user of the Tools a non-exclusive, worldwide, sublicensable, royalty free license to use your Tools Submissions in connection with the functionality available through the Tools.
+
+The Sites may provide you with the ability to create user profiles and other content (“Other Content”), and you hereby grant Mozilla a non-exclusive, worldwide, royalty free license to use your Other Content Submissions in connection with the provision and promotion of the Sites. You represent and warrant that that you have all necessary rights and permissions to publish your Other Content Submissions on the Sites, and that the uses contemplated on the Sites will not infringe the proprietary or intellectual property rights of any third party.
+
 ## How do I navigate Thimble?
 
 Navigating Thimble is easy. On the far left you have yoru file tree. This lists all the files in your project. Then you have the editor window where you will write your code. On the right side of the windo is the preview frame. This allows you to see the changes in yoru project as you make them.
