@@ -9,7 +9,8 @@ Because Thimble  uses a forked version of Brackets, much of what you can do is t
 *NOTE: if you find the following animations too small to read, you can open all of the images below in full-size by right-clicking and viewing them on their own.*
 
 ## How do I create a project?
-There are many ways to create a new project. For new users we recommend selecting a starter project on our homepage. You do this by clicking on the "Remix This Project" button. You can also begin with a blank project by clicking on "start a project from scratch." 
+There are many ways to create a new project. For new users we recommend selecting a starter project on our homepage. You do this by clicking on the "Remix This Project" button. You can also begin with a blank project by clicking on "start a project from scratch."
+![Starting project](https://github.com/jgmac1106/jgmac1106.github.io/blob/master/startproject.gif).
 
 ## How do I create an account?
 
