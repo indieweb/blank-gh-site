@@ -82,6 +82,8 @@ Navigating Thimble is easy. On the far left you have yoru file tree. This lists 
 
 Thimble is localised in 28 different languages. It will recognize the default language setting in yoru broswer. If you want to change the language click on the drop dopwn carrot next to your chosen language. Then seklect the language of choice. Please note changing the language only switches the faeatures of Thimble. Any files in the file tree and code in the editor do not change languages.
 
+![Switch Language](https://github.com/jgmac1106/jgmac1106.github.io/blob/master/language.gif)
+
 
 ## How do I use the Tutorial Feature?
 
