@@ -13,8 +13,11 @@ There are many ways to create a new project. For new users we recommend selectin
 ![Starting project](https://github.com/jgmac1106/jgmac1106.github.io/blob/master/startproject.gif).
 
 ## How do I create an account?
+It is helpful to create an account even before you begin your first project, but you can start a project and create an account at anytime. To create an account click on "Create An Account". You will hten be propmted to create a user name, add your email, and choose a password. We will then send you a confirmation email. Confirm your account and you are done. Once you have a webmkaer account your oejects will show up on your dashboard,
 
 ## How do I save a project?
+
+Thimble will auto save your changes as you make edits to the code. There is no need to hit a save button. In fact Thimble does not have a save button. Only you can access a saved project until it is published. Once published anyone can find and remix your project.
 
 ## How do I publish a project?
 
