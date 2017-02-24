@@ -13,7 +13,7 @@ There are many ways to create a new project. For new users we recommend selectin
 ![Starting project](https://github.com/jgmac1106/jgmac1106.github.io/blob/master/startproject.gif).
 
 ## How do I create an account?
-It is helpful to create an account even before you begin your first project, but you can start a project and create an account at anytime. To create an account click on "Create An Account". You will hten be propmted to create a user name, add your email, and choose a password. We will then send you a confirmation email. Confirm your account and you are done. Once you have a webmkaer account your oejects will show up on your dashboard,
+It is helpful to create an account even before you begin your first project, but you can start a project and create an account at anytime. To create an account click on "Create An Account". You will hten be propmted to create a user name, add your email, and choose a password. We will then send you a confirmation email. Confirm your account and you are done. Once you have a webmkaer account your oejects will show up on your dashboard.
 
 ## How do I save a project?
 
@@ -77,6 +77,11 @@ The Sites may provide you with the ability to create user profiles and other con
 ## How do I navigate Thimble?
 
 Navigating Thimble is easy. On the far left you have yoru file tree. This lists all the files in your project. Then you have the editor window where you will write your code. On the right side of the windo is the preview frame. This allows you to see the changes in yoru project as you make them.
+
+## Can I Switch the Language in Thimble
+
+Thimble is localised in 28 different languages. It will recognize the default language setting in yoru broswer. If you want to change the language click on the drop dopwn carrot next to your chosen language. Then seklect the language of choice. Please note changing the language only switches the faeatures of Thimble. Any files in the file tree and code in the editor do not change languages.
+
 
 ## How do I use the Tutorial Feature?
 
@@ -196,6 +201,4 @@ Thimble will convert a limited subset of LESS files into CSS.  Any file.less wil
 
 ## How do I write a tutorial?
 
-For tutorial authors, your `tutorial.html` file can contain any valid HTML document, and can use
-both external and internal assets.  You could even have an iframe that shows documentation from some
-other site. 
+For tutorial authors, your `tutorial.html` file can contain any valid HTML document, and can use both external and internal assets.  You could even have an iframe that shows documentation from some other site. 
