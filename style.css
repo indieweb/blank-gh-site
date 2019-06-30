@@ -2,16 +2,27 @@ body{
   color:#3A53A4;
   background-color:white;
   font-family: 'Open Sans', sans-serif;
-  text-align: center
+  text-align: center;
+  font-size: 18px;
+  max-width:650px;margin:0 auto;
 }
 h1{
   color:#3A53A4;
   text-align: center;
+  font-size: 40px
 }
-a{
-  font-size:10px;
+a:link{
   text-decoration:none;
-  color:#3A53A4
+  color:#f0536c;
+}
+
+a:visited{
+  color:
+}
+
+a:hover {
+  /* hide blue bar under a refs */
+  text-decoration: none;
 }
 
 li {
@@ -24,22 +35,21 @@ li a {
   /* hide blue bar under a nav */
   text-decoration: none;
   display: inline-block;
-  padding: 8px;
+  padding: 20px;
   font-family: "Open Sans";
   color: #f0536c;
+  font-size: 18px
 }
 
 ul{
   padding:0;
 }
 
-a:hover {
-  /* hide blue bar under a refs */
-  text-decoration: none;
+footer a{
+  font-size: 14px;
 }
 
 /* nav hover effect */
-
 .nav-effect:after {
   content: "";
   display: block;
@@ -48,7 +58,6 @@ a:hover {
   background: #3A53A4;
   transition: width 0.3s;
 }
-
 .nav-effect:hover::after {
   width: 100%;
   transition: width 0.3s;
