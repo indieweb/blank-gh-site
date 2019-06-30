@@ -1,0 +1,55 @@
+body{
+  color:#3A53A4;
+  background-color:white;
+  font-family: 'Open Sans', sans-serif;
+  text-align: center
+}
+h1{
+  color:#3A53A4;
+  text-align: center;
+}
+a{
+  font-size:10px;
+  text-decoration:none;
+  color:#3A53A4
+}
+
+li {
+  /* line up nav bar horizontal */
+  display: inline-block;
+  text-align: center;
+}
+
+li a {
+  /* hide blue bar under a nav */
+  text-decoration: none;
+  display: inline-block;
+  padding: 8px;
+  font-family: "Open Sans";
+  color: #f0536c;
+}
+
+ul{
+  padding:0;
+}
+
+a:hover {
+  /* hide blue bar under a refs */
+  text-decoration: none;
+}
+
+/* nav hover effect */
+
+.nav-effect:after {
+  content: "";
+  display: block;
+  width: 0;
+  height: 2px;
+  background: #3A53A4;
+  transition: width 0.3s;
+}
+
+.nav-effect:hover::after {
+  width: 100%;
+  transition: width 0.3s;
+
