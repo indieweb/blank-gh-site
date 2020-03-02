@@ -1,11 +1,80 @@
-table {
-    border-width: 1px;
-    border-style: solid;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-td, th {
+body {
+    background-color: #e1e4e6;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+p {
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    padding: 10px;
+}
+
+h1 {
+    font-size: 2em;
+    margin-top: 10px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 1.5em;
+    margin-top: 10px;
+    text-align: center;
+}
+
+h5 {
+    margin-top: 10px;
+    font-size: .9em;
+    font-weight: bold;
+}
+
+ol, ul, dl {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+ul {
+    list-style-position: inside;
+    list-style-type: circle;
+}
+
+
+.skillset {
     border-width: 1px;
     border-style: solid;
+    margin-left: 10px;
+    background-color: white;
+    border-width: 2px;
+    border-style: groove;
+    border-radius: 5px;
+}
+
+caption {
+    font-size: 1.2em;
+    font-style: oblique;
+}
+
+
+.skillset td, tr{
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
     padding: 5px;
     margin: 5px;
+
 }
+
+
+hr {
+    border: ;
+}
+
