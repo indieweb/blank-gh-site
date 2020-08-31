@@ -1,6 +1,6 @@
 # blank-gh-site
 
-This repository is the simplest possible Github site that can work.
+This repository provides minimal HTML for starting a new web site!
 
 ## How to play
 
