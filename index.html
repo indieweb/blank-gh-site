@@ -1,39 +1,67 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="mobile-web-app-capable" content="yes" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="authorization_endpoint" href="https://indieauth.com/auth">
   <link rel="token_endpoint" href="https://tokens.indieauth.com/token">
-  <!-- replace the below link with what aperture.p3k.io gives you after signing-in.
+  <!-- To use social readers via microsub, follow these steps.
     (Details: https://indieweb.org/Microsub#Getting_Started)
-    In summary:
-    1. sign in to https://aperture.p3k.io/login with your domain
-    2. you will see a <link> tag displayed on your dashboard
-    3. copy that <link> tag that looks like:
+    1. After publishing this to your domain, sign in to https://aperture.p3k.io/login with your domain
+    2. You will see a <link> tag displayed on your dashboard that looks like:
       <link rel="microsub" href="https://aperture.p3k.io/microsub/000">
-      after this HTML comment. -->
+    3. Copy that <link> tag and paste it after this HTML comment.
+    4. Publish the updated page!
+   -->
   <title>My New Website</title>
+  <style>
+    @media (prefers-color-scheme: dark) {
+      html { background-color: #111111; color: #fbfbfb; }
+      a { color: #ca8465; }
+    }
+    body {
+      line-height: 1.6;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, Roboto, Helvetica, Arial, sans-serif;
+      text-align: center;
+      margin: 1rem auto;
+      min-height: 90vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    img.u-photo { border-radius: 50%; }
+    ul { padding: 0; list-style: none; }
+  </style>
 </head>
-<body>
-  <h1>My New Website</h1>
-  <div class="h-card">
-    <p>
-      Hi, my name is <span class="p-name">Jane Smith</span> and I am a human on the Internet.
-    </p>
 
-    <p>
-      You can find me on other websites below:
+<body>
+  <!-- Reference for representative h-card properties: https://microformats.org/wiki/h-card -->
+  <main class="h-card" rel="author">
+    <!-- Uncomment and add __your_image__ to display a photo!
+      <img class="u-photo" alt="My profile photo" src="__your_image__" />
+    -->
+    <h1>
+      I'm <span class="p-name">Jane Smith</span>.
+    </h1>
+
+    <p class="p-note">
+      ...and I am a human on the Internet.
     </p>
 
     <ul>
-      <!-- replace _mygithubid_ with your GitHub username -->
+      <!-- Replace __this_page__ with your domain -->
+      <li><a class="u-uid u-url" href="__this_page__">My New Website</a></li>
+
+      <!-- Update or remove the below links!
+        Replace _mygithubid_ with your GitHub username -->
       <li><a class="u-url" href="https://github.com/_mygithubid_" rel="me">@_mygithubid_</a></li>
-      
-      <!-- replace _mytwitterid_ with your Twitter username (if you have one, if not, delete the <li>…</li>) -->
+
+      <!-- Replace _mytwitterid_ with your Twitter username -->
       <li><a class="u-url" href="https://twitter.com/_mytwitterid_" rel="me">@_mytwitterid_</a></li>
     </ul>
-  </div>
+  </main>
 </body>
+
 </html>

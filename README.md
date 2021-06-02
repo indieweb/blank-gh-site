@@ -2,6 +2,8 @@
 
 This repository provides minimal HTML for starting a new web site!
 
+Your own unique website can be your identity on the Internet! You can use it to set up a simple personal page that lets you use [IndieAuth](https://indieweb.org/IndieAuth) and [social readers](https://indieweb.org/social_reader).
+
 ## How to play
 
 1. Fork this repository to your user account.
